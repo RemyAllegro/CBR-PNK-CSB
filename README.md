@@ -7,7 +7,7 @@ This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-co
 3. Link to the style.css file in the game settings for custom system builder* 
 4. Add the MonoRegular font in the game settings for Core, using the Font Family name "Mono"*
 5. Add the cbrpnk_icons font in the game settings for Core, using the Font Family name "cbrpnk"*
-6. In order to use sheet automation, install and enable the CBR+PNK Roller mmodule (manifest url: https://raw.githubusercontent.com/RemyAllegro/foundryvtt-cbrpnkroller/main/module.json)
+6. In order to use sheet automation, install and enable the CBR+PNK Roller module (manifest url: https://raw.githubusercontent.com/RemyAllegro/foundryvtt-cbrpnkroller/main/module.json)
 
 *-optional, but will highly improve visuals
 
