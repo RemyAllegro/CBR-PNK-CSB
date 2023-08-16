@@ -1,6 +1,9 @@
 # CBR+PNK for FoundryVTT
 This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-core) system by Emanoel Melo for use with [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) for FoundryVTT 
 
+# Usage
+To use, create a world with Custom System Builder (manifest url: https://gitlab.com/custom-system-builder/custom-system-builder/-/raw/main/system.json)
+
 
 # Legal
 This work is based on [Blades in the Dark](http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
