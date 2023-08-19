@@ -10,6 +10,8 @@ This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-co
 6. In order to use sheet automation, install and enable the CBR+PNK Roller module (manifest url: https://raw.githubusercontent.com/RemyAllegro/foundryvtt-cbrpnkroller/main/module.json)
 
 *-optional, but will highly improve visuals
+## Version
+This sheet is currently tested for CSB version 2.3.1 on Foundry 11 Build 306
 
 # Legal
 This work is based on [Blades in the Dark](http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
