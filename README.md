@@ -11,7 +11,7 @@ This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-co
 
 *-optional, but will highly improve visuals
 ## Version
-This sheet is currently tested for CSB version 2.3.1 on Foundry 11 Build 306
+This sheet is currently tested for CSB version 3.1.0 on Foundry 11 Build 315
 
 ## Support
 If you want to support this system, please give to the creaters of custom system builder on [ko-fi](https://ko-fi.com/linkedfluuuush)
