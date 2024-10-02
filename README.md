@@ -1,8 +1,8 @@
-# CBR+PNK System
-Shout out to Kiszu for his implementation of [CBR+PNK for Foundry](https://github.com/P4NTY/CBR-PNK-FOUNDRY)
-
 # CBR+PNK for FoundryVTT
 This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-core) system by Emanoel Melo for use with [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) for FoundryVTT 
+
+# Other Implementation
+Shout out to Kiszu for his implementation of [CBR+PNK for Foundry](https://github.com/P4NTY/CBR-PNK-FOUNDRY)
 
 # Usage 
 1. Create a world with Custom System Builder (manifest url: https://gitlab.com/custom-system-builder/custom-system-builder/-/raw/main/system.json)
