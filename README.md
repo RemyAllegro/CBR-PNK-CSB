@@ -1,3 +1,6 @@
+# CBR+PNK System
+Shout out to Kiszu for his implementation of [CBR+PNK for Foundry](https://github.com/P4NTY/CBR-PNK-FOUNDRY)
+
 # CBR+PNK for FoundryVTT
 This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-core) system by Emanoel Melo for use with [Custom System Builder](https://gitlab.com/custom-system-builder/custom-system-builder) for FoundryVTT 
 
@@ -11,7 +14,7 @@ This is my implementation of the [CBR+PNK](https://emanoelmelo.itch.io/cbrpnk-co
 
 *-optional, but will highly improve visuals
 ## Version
-This sheet is currently tested for CSB version 3.1.0 on Foundry 11 Build 315
+This sheet is currently tested for CSB version 4.0.0 on Foundry 12 Build 331
 
 ## Support
 If you want to support this system, please give to the creaters of custom system builder on [ko-fi](https://ko-fi.com/linkedfluuuush)
